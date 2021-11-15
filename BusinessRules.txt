@@ -1,0 +1,5 @@
+Business Rules:
+-	University members are only eligible to use the system.
+-	Outside the university members are not eligible to use the system.
+-	Ratings are optional
+-	Each order has one rating
